@@ -1,0 +1,8 @@
+Coming from using GNU screen regularly, 
+I'm looking for tmux to do the same things. 
+On of the things I do regularly is have a couple of different windows open, 
+one with some code open in vim, and a couple of terminals windows open to test the code, 
+and sometimes a window or two for various other things. 
+
+I split the screen vertically and will often have the vim window 
+in the top pane and then one of the other windows in the bottom bane.
